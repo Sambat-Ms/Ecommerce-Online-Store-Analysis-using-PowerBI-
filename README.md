@@ -52,13 +52,16 @@ This Power BI project analyzes various aspects of Online Store to provide valuab
 ### Website Traffic Analysis
 [![Demo Image](Output/website_traffic.png)](Output/website_traffic.png)
 
-    With peak conversion rates of 7.6% and desktop direct traffic converting at an astonishing 9.9% . But the business is leaking revenue at every stage: 43K visitors vanish between cart and purchase, mobile users convert at one-third the rate of desktop, summer months drag despite opportunity, and secondary products remain undiscovered.
+ 
+With peak conversion rates of 7.6% and desktop direct traffic converting at an astonishing 9.9% . But the business is leaking revenue at every stage: 43K visitors vanish between cart and purchase, mobile users convert at one-third the rate of desktop, summer months drag despite opportunity, and secondary products remain undiscovered.
+
 **The path forward is clear:**
-**Stop the leak** Fix checkout friction and recover around 1M in lost revenue.
-**Close the gap** Optimize mobile to capture the modern shopper.
-**Smooth the curve** Activate summer months and build a year-round gift destination.
-**Diversify the portfolio** Promote every teddy, not just the best-seller.
-**Keep them coming back** Turn one-time gift buyers into lifelong Fuzzy Club members.
+1. **-Stop the leak** Fix checkout friction and recover around 1M in lost revenue.
+2. **-Close the gap** Optimize mobile to capture the modern shopper.
+3. **-Smooth the curve** Activate summer months and build a year-round gift destination.
+4. **-Diversify the portfolio** Promote every teddy, not just the best-seller.
+5. **-Keep them coming back** Turn one-time gift buyers into lifelong Fuzzy Club members.
+
 **This is not about small tweaks. This is about transforming a seasonal gift business into a year-round brand that customers return to for every occasion—birthdays, anniversaries, holidays, and moments of comfort.**
 
 
