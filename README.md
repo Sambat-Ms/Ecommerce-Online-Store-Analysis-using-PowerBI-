@@ -45,3 +45,9 @@ This Power BI project analyzes various aspects of Online Store to provide valuab
 2. **Session Trend by day of week and Session by channel (Line Chart & Donut chart):** Understand the distribution of Session across various day and channel 
 3. **Conversion Rate trend and Conversion rate by Channel & Device (Line Chart & Clustered Bar Chart):** Identify month and channel with significant high conversion rate activity
 4. **Pageviews by Pagecategory:**  understand how website traffic is distributed across different types of pages. This helps understand what users are most interested in and where they spend time on the website.
+## Key Finding & Conclusion 
+### Sales & Profit Analysis
+[![Demo Image](Output/sale_profit.png)](Output/sale_profit.png)
+
+### Website Traffic Analysis
+[![Demo Image](Output/website_traffic.png)](Output/website_traffic.png)
