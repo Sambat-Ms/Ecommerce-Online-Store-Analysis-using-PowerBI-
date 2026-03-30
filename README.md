@@ -74,15 +74,23 @@ The dataset includes 6 main tables:
 **Website Traffic Analysis**
 [![Demo Image](Output/website_traffic.png)](Output/website_traffic.png)
 
- 
-- Peak conversion rate reached 7.6%, with desktop direct traffic achieving 9.9%
-- Peak conversion rate reached 7.6%, with desktop direct traffic achieving 9.9%
-- Significant funnel leakage: approximately 43K users drop off between cart and purchase
-- Mobile conversion rate is significantly lower than desktop performance
-- Noticeable seasonal slowdown during summer months
-- Revenue is heavily concentrated in a small number of products
-- 
+
+
+
 # 💡 Business Insights & Recommendations
+  **📊 Business Insights**
+
+The website achieves strong peak performance, with an overall conversion rate of 7.6% and an exceptional 9.9% conversion rate from desktop direct traffic.
+
+However, there are significant revenue leaks across the customer journey:
+
+- Around 43,000 visitors drop off between cart and purchase
+- Mobile conversion rates are roughly 3× lower than desktop
+- Summer months show a noticeable performance decline despite growth opportunities
+- Secondary (upsell/cross-sell) products are underutilized and often not discovered
+  
+**🚀 Recommendations**
+
 - **Stop the leak:** Reduce friction in the checkout process to recover up to $1M in lost revenue
 - **Close the gap:** Improve mobile user experience to match desktop performance
 - **Smooth seasonality:** Strengthen marketing campaigns during low-performing months
