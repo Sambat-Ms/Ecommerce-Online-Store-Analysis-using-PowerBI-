@@ -1,6 +1,10 @@
-# 📊Ecommerce Analysis using Power BI
-Welcome to the Ecommerce Online Store Analysis project!
-This project focuses on analyzing e-commerce data to generate actionable insights using Power BI.
+
+# 📊 Business Performance Dashboard: Sales, Profit & Website Analytics
+
+This project analyzes user behavior, conversion performance, and revenue trends to identify key growth opportunities and optimize business performance.
+
+## 🔗 Live Dashboard
+👉 [View Power BI Report](https://app.powerbi.com/links/xFlyY8T7M_)
 
 # 🚀Overview
 This project provides a comprehensive analysis of an online store’s performance through two interactive dashboards:
