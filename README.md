@@ -39,7 +39,8 @@ The dataset includes 6 main tables:
 - **Total Spent:** Revenue after deducting refunds
 - **Total Profit:** Net profit calculation
 - **Profit Margin:** Profit divided by total revenue
-#📊 Visualizations
+  
+**📊 Visualizations**
 - **Revenue & Profit Trends (Line Chart):** Analyze performance over time
 - **Revenue by Channel & Device (Pie Chart):** Identify top-performing sources
 - **Revenue by Product (Funnel Chart):** Product contribution analysis
@@ -54,7 +55,7 @@ The dataset includes 6 main tables:
 - **Conversion Rate:** Orders divided by sessions
 - **Average Pageviews:** Engagement level per session
 
-# 📊 Visualizations
+**📊 Visualizations**
 - **Session Trends Over Time (Line Chart)** Tracks website traffic over time to evaluate overall business performance and seasonality patterns
 - **Traffic by Day & Channel (Line + Donut Chart)** Tracks website traffic over time to evaluate overall business performance and seasonality patterns
 - **Conversion Rate Analysis (Line & Bar Chart)** Identifies high-performing months, traffic sources, and devices in terms of conversion efficiency
